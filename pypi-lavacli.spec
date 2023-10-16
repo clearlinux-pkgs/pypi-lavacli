@@ -7,12 +7,12 @@
 #
 Name     : pypi-lavacli
 Version  : 1.6
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/09/7d/a27c942dfcb19d49e9fd9bc27b143f6db6bab986fd031080e9bdb04f20c7/lavacli-1.6.tar.gz
 Source0  : https://files.pythonhosted.org/packages/09/7d/a27c942dfcb19d49e9fd9bc27b143f6db6bab986fd031080e9bdb04f20c7/lavacli-1.6.tar.gz
 Summary  : LAVA XML-RPC command line interface
 Group    : Development/Tools
-License  : AGPL-3.0 AGPLv3+
+License  : AGPL-3.0
 Requires: pypi-lavacli-bin = %{version}-%{release}
 Requires: pypi-lavacli-license = %{version}-%{release}
 Requires: pypi-lavacli-python = %{version}-%{release}
@@ -85,7 +85,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1697495004
+export SOURCE_DATE_EPOCH=1697496286
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
