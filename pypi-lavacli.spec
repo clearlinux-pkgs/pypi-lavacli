@@ -7,7 +7,7 @@
 #
 Name     : pypi-lavacli
 Version  : 2.2.0
-Release  : 10
+Release  : 11
 URL      : https://files.pythonhosted.org/packages/97/9d/7a6917289ef0baf6d40d9bfa92e0bfcd718467a6e045d0d1d2c0cc14009f/lavacli-2.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/97/9d/7a6917289ef0baf6d40d9bfa92e0bfcd718467a6e045d0d1d2c0cc14009f/lavacli-2.2.0.tar.gz
 Summary  : LAVA XML-RPC command line interface
